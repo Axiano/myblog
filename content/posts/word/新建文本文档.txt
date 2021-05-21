@@ -1,0 +1,3 @@
+## windows 2016 集群配置
+详细教程点击：
+<a href="./word/windows 2016 集群配置.docx" download="windows 2016 集群配置.docx">下载</a>
